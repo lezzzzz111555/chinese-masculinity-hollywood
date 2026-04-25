@@ -11,13 +11,13 @@ const films = [
       "This film marks an early Hollywood image of Chinese masculinity as dangerous, excessive, and racially feared. The Chinese male figure is not allowed interiority or romance; he appears as a threat to be contained."
   },
   {
-    keyword: "Body",
+    keyword: "Weaponized Body",
     title: "Enter the Dragon (1973)",
     director: "Robert Clouse",
     image: "images/enter-the-dragon.jpg",
     alt: "Enter the Dragon film image",
     synopsis:
-      "A martial artist enters a deadly tournament, turning the Chinese male body into a source of global spectacle and cinematic power.",
+      "Recruited to infiltrate a criminal island through a martial arts tournament, Lee turns the Chinese male body into a weaponized spectacle of discipline, power, and global screen presence.",
     matters:
       "Bruce Lee transformed the visibility of Chinese masculinity in Hollywood. Yet this visibility was largely attached to physical discipline, speed, and martial spectacle rather than romantic or emotional centrality."
   },
@@ -28,9 +28,9 @@ const films = [
     image: "images/m-butterfly.jpg",
     alt: "M. Butterfly film image",
     synopsis:
-      "A French diplomat becomes absorbed in a fantasy of the East, misrecognising both gender and cultural identity through his own Orientalist desires.",
+      "A French diplomat falls in love with an image of the East that exists largely in his own imagination. Through Song Liling, the film exposes how Orientalist fantasy can turn Chinese masculinity into something feminized, mysterious, and misread.",
     matters:
-      "The film complicates representation by showing how Chinese masculinity can be feminized, disguised, and misread through Western fantasy. It is not a simple stereotype, but a more unstable drama of desire, performance, and misrecognition."
+      "In this programme, M. Butterfly marks a shift from visible threat or physical power to fantasy. Chinese masculinity is not openly feared or celebrated here; instead, it is filtered through a Western desire for a softer, submissive, and feminized East. The film matters because it shows how stereotypes can operate not only through hatred, but also through desire, romance, and the illusion of understanding."
   },
   {
     keyword: "Denied Intimacy",
@@ -41,7 +41,7 @@ const films = [
     synopsis:
       "A Chinese action hero becomes central to the narrative through combat, loyalty, and sacrifice, but the film limits the full expression of interracial romance.",
     matters:
-      "The film shows that Hollywood could make a Chinese male hero powerful and likeable while still restricting his romantic desirability. Action becomes visible, but intimacy remains conditional."
+      "In a conventional Hollywood action film, the male hero often wins both the fight and the romance. Romeo Must Die unsettles that formula. Jet Li's Han is heroic, attractive, and emotionally connected to Trish, yet the film stops short of confirming him as a romantic object. The ending's shift from a kiss to an embrace turns intimacy into something ambiguous — acceptable only when it can still be read as friendship."
   },
   {
     keyword: "Negotiated Visibility",
@@ -52,7 +52,7 @@ const films = [
     synopsis:
       "A young man confronts family history, inherited power, and personal identity while entering the centre of a global superhero franchise.",
     matters:
-      "Shang-Chi offers a more emotionally legible and central Chinese/Asian male hero. However, this does not mean representation is fully resolved. His visibility is expanded, but still shaped by blockbuster conventions, market conditions, and negotiated cultural expectations."
+      "After decades of threat, fantasy, spectacle, and withheld intimacy, Shang-Chi offers a new kind of visibility. Its hero is powerful, funny, wounded, and emotionally present. Yet he becomes visible through the grammar of the Marvel blockbuster: origin story, family trauma, martial spectacle, comic relief, and marketable heroism. The result is not a final victory over stereotype, but a more complex negotiation with it."
   }
 ];
 
